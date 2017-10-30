@@ -3,7 +3,7 @@ i.e. python bomberman.py
 
 Basic Controls :--
 
-  Function     key
+   Function     key
 1)Move left 	a
 2)Move right	d
 3)Move up   	w
