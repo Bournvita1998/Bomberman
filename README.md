@@ -12,12 +12,12 @@ Basic Controls :--
 
 It is a simple game where bomberman can be run by the user whereas enemies move randomly on the board. Both of them cannot walk through walls or bricks. Bomberman can drop a bomb which destroys bricks and enemies around it's four direction and the place of bomb itself after 3 frames .
 
-'/' represents the bricks
-'B' represents Bomberman
-'[^^]'
-' ][ ' represents Enemy
-'#' represents the fire of explosion
-'X' The walls
+--'/' represents the bricks
+--'B' represents Bomberman
+--'[^^]'
+--' ][ ' represents Enemy
+--'#' represents the fire of explosion
+--'X' The walls
 
 It is implemented using OOP's Principles
 
